@@ -1,0 +1,47 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "address": "NOIDA SECTOR-18"
+    },
+    {
+      "id": 2,
+      "name": "BURGER KING",
+      "email": "bg@gmail.com",
+      "address": "NOIDA SECTOR-16"
+    },
+    {
+      "name": "DOMINOS",
+      "email": "bg@gmail.com",
+      "address": "NOIDA SECTOR-16",
+      "id": 3
+    },
+    {
+      "name": "PIZZA",
+      "email": "bg@gmail.com",
+      "address": "NOIDA SECTOR-16",
+      "id": 4
+    },
+    {
+      "name": "MACDI",
+      "email": "bg@gmail.com",
+      "address": "NOIDA SECTOR-16",
+      "id": 5
+    },
+    {
+      "name": "SANTOSH HOTEL",
+      "email": "bg@gmail.com",
+      "address": "NOIDA SECTOR-16",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": " comment",
+      "postId": 1
+    }
+  ]
+}
