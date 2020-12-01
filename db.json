@@ -35,6 +35,24 @@
       "email": "bg@gmail.com",
       "address": "NOIDA SECTOR-16",
       "id": 6
+    },
+    {
+      "name": "cofeee day",
+      "email": "cofee@gmail.com",
+      "address": "sector-56 Noida",
+      "id": 7
+    },
+    {
+      "name": "cofeee day",
+      "email": "cofee@gmail.com",
+      "address": "sector-56 Noida",
+      "id": 8
+    },
+    {
+      "name": "Tea day",
+      "email": "cofee@gmail.com",
+      "address": "sector-56 Noida",
+      "id": 9
     }
   ],
   "comments": [
